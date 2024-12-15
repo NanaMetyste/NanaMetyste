@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 👋 Hi, I’m @Methy
+- 👀 I’m interested in code, music, video game, food, PINOU & MIMI 
+- 🌱 I’m currently learning Python, Russian & Chinese, HR
+- 👀 I’m interested in innovation, music, video game, food , fight & bunny
+- 🌱 I’m currently learning Python & Chinese.
 
 <!--
 **NanaMetyste/NanaMetyste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
